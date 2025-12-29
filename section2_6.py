@@ -104,4 +104,4 @@ final_file_path = os.path.join(result_path, 'adata.h5ad')
 print(f"Saving final AnnData object to: {final_file_path}")
 adata.write(final_file_path)
 
-print("Section 2.6 Completed. All Done!")
+print("Section 2.6 Completed. Done!")
